@@ -1,7 +1,7 @@
 <h2>Hi there 👋, My name is Hridoy Khan (Raju)</h2>
 <h4>Full-Stack Web Developer & WordPress Expert</h4>
 
-<p>Hey ! I’m Wp Hridoy With 4 Years experience of web Design & Development. I get deeper to understand the client’s needs and problems. My passion is to satisfy every client and become e pro developer to learn new updates every day. You will get lifetime support in any situation.</p>
+<p>Hi, I'm Hridoy ! I'm professionally Web designer and Developer My job is build your website with smoothly I can do any kind of WordPress related job such as,Customization,Development There, Getting a Clean, Unique and Professional website is a Dream for online business man or any people who want an online presence What are you waiting for? You are on right place I'm a Professional WordPress Designer and Developer having experience in WP themes to Beautify Your Dreams</p>
 
 <h4>Skills:</h4> 
 <b>HTML / CSS / WordPress / Shopify / JS /</b>
