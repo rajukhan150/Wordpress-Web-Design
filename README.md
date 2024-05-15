@@ -10,4 +10,3 @@
 <h5>🔭 I’m currently working on <button><a href="https://www.fiverr.com/hridoy_wp">fiverr</a></button> & <button><a href="https://upwork.com/freelancers/rajuk">Upwork</a></button>.</h5>
 <h5>💬 Ask me More Qustions <button><a href="https://webexperthridoy.great-site.net/">webexperthridoy.net</a></button> </h5>
 </div>
-<i class="fa-brands fa-facebook"></i>
