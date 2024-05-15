@@ -1,4 +1,4 @@
-<div style="background-color:yellow">
+<div style="background-color:#effaff; padding:30px;">
 <h2>Hi there 👋, My name is Hridoy Khan (Raju)</h2>
 <h4>Full-Stack Web Developer & WordPress Expert</h4>
 
@@ -7,8 +7,7 @@
 <h4>Skills:</h4> 
 <b>HTML / CSS / WordPress / Shopify / JS /</b>
 
-<h6>🔭 I’m currently working on <button><a href="https://www.fiverr.com/hridoy_wp">fiverr</a></button> & <button><a href="https://upwork.com/freelancers/rajuk">Upwork</a></button>.</h6>
-<h6></h6>
-<h6></h6>💬 Ask me More Qustions <button><a href="https://webexperthridoy.great-site.net/">webexperthridoy.net</a></button> </h6>
+<h5>🔭 I’m currently working on <button><a href="https://www.fiverr.com/hridoy_wp">fiverr</a></button> & <button><a href="https://upwork.com/freelancers/rajuk">Upwork</a></button>.</h5>
+<h5>💬 Ask me More Qustions <button><a href="https://webexperthridoy.great-site.net/">webexperthridoy.net</a></button> </h5>
 </div>
 
